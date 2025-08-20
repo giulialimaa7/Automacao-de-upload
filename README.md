@@ -27,7 +27,7 @@ Criar um processo que faça o **upload de 1 arquivo no Google Drive** de forma *
 
 ## 📦 Tecnologias Utilizadas  
 
-- **Python 3.x**  
+- **Python**  
 - **PyAutoGUI** – Automação de mouse e teclado  
 - **Time** – Controle de pausas durante execução  
 - **OS** – Manipulação de diretórios e arquivos  
