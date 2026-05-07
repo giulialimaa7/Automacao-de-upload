@@ -23,6 +23,16 @@ Desenvolver uma automação capaz de:
 
 ---
 
+## 🛠️ Passo a Passo do Projeto  
+
+1. Instalar e importar a biblioteca **PyAutoGUI**.  
+2. Criar comandos de movimentação e cliques do mouse.  
+3. Automatizar a navegação até a pasta correta no computador.  
+4. Simular o processo de upload no Google Drive.  
+5. Validar se o arquivo foi enviado com sucesso.  
+
+---
+
 ## ⚙️ Fluxo da Automação
 
 1. Inicialização da automação
@@ -32,16 +42,6 @@ Desenvolver uma automação capaz de:
 5. Upload automatizado
 6. Validação do envio
 7. Finalização do processo
-
----
-
-## 🛠️ Passo a Passo do Projeto  
-
-1. Instalar e importar a biblioteca **PyAutoGUI**.  
-2. Criar comandos de movimentação e cliques do mouse.  
-3. Automatizar a navegação até a pasta correta no computador.  
-4. Simular o processo de upload no Google Drive.  
-5. Validar se o arquivo foi enviado com sucesso.  
 
 ---
 
