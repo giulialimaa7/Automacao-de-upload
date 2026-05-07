@@ -1,7 +1,9 @@
-# 🤖 RPA e Python - Automatize qualquer Processo ou Sistema  
+# 🤖 RPA - Updaload Automatizado de Arquivo
 
 ## 📌 Biblioteca Principal  
-Utilizaremos a biblioteca **PyAutoGUI**, que permite controlar **mouse, teclado e tela do computador** com Python.  
+Processos manuais de upload de arquivos consomem tempo, estão sujeitos a falhas humanas e impactam a produtividade operacional.
+
+O objetivo deste projeto é automatizar o envio de arquivos para plataformas em nuvem, reduzindo tarefas repetitivas e garantindo maior agilidade no processo.
 
 🔗 Documentação: [PyAutoGUI Quickstart](https://pyautogui.readthedocs.io/en/latest/quickstart.html)  
 
@@ -11,7 +13,25 @@ Utilizaremos a biblioteca **PyAutoGUI**, que permite controlar **mouse, teclado 
 Queremos automatizar o **backup de arquivos** no sistema.  
 
 ### 🚀 Objetivo:  
-Criar um processo que faça o **upload de 1 arquivo no Google Drive** de forma **automática e rápida**.  
+Desenvolver uma automação capaz de:
+
+- Navegar automaticamente entre diretórios do sistema
+- Selecionar arquivos específicos
+- Realizar upload automático no Google Drive
+- Validar a conclusão do processo
+- Reduzir intervenção manual
+
+---
+
+## ⚙️ Fluxo da Automação
+
+1. Inicialização da automação
+2. Navegação até o diretório do arquivo
+3. Seleção automática do arquivo
+4. Acesso à plataforma Google Drive
+5. Upload automatizado
+6. Validação do envio
+7. Finalização do processo
 
 ---
 
@@ -31,5 +51,14 @@ Criar um processo que faça o **upload de 1 arquivo no Google Drive** de forma *
 - **PyAutoGUI** – Automação de mouse e teclado  
 - **Time** – Controle de pausas durante execução  
 - **OS** – Manipulação de diretórios e arquivos  
+
+---
+
+## ✅ Resultados Obtidos
+
+- Redução do tempo operacional
+- Eliminação de tarefas repetitivas
+- Maior confiabilidade no processo de upload
+- Padronização do fluxo operacional
 
 ---
